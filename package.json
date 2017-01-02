@@ -1,0 +1,16 @@
+{
+  "name": "kbzserver",
+  "version": "1.0.0",
+  "description": "server for kbzui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "uriee",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "rethinkdbdash": "^2.3.27"
+  }
+}
